@@ -1,0 +1,23 @@
+body {
+  background-color: #e6eaef;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #eacee6;
+}
+
+h2 {
+  color: #eacee6;
+}
+
+h3 {
+  color: #8b868e
+}
+
+p {
+  color: #868e8b;
+}
+li {
+  display: inline-block;
+}
