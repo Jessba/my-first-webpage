@@ -1,0 +1,30 @@
+body {
+  background-color: #7c1721;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1{
+  color: green;
+}
+
+h2{
+  color: green;
+}
+
+p{
+  color: white;
+}
+
+ol{
+  color: white;
+  list-style: none;
+}
+
+h3{
+  color: green;
+}
+
+h4{
+  color: green;
+}
